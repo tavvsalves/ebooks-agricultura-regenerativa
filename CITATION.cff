@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se utilizar esta obra, cite a versão consultada."
+title: "Solo que Segura a Safra: decisões por talhão para manejo do solo, risco hídrico e transição no Cerrado goiano"
+type: book
+version: "pre-publication"
+authors:
+  - family-names: "Santos"
+    given-names: "Carlos Renato dos"
+  - family-names: "Santos"
+    given-names: "Daniel Vitor Barbosa dos"
+  - family-names: "Nascimento"
+    given-names: "Vinicius Ferraz"
+  - family-names: "Alves"
+    given-names: "Tavvs Micael"
+publisher:
+  name: "Instituto Federal Goiano"
+repository-code: "https://github.com/tavvsalves/ebooks-agricultura-regenerativa"
+url: "https://tavvsalves.github.io/ebooks-agricultura-regenerativa/solo-que-segura-a-safra/"
